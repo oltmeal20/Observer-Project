@@ -1,0 +1,7 @@
+Luke Oltmanns
+Observation Project
+Comp Sci 371
+
+Created an EraDisplay object to the example provided for us from class.
+The EraDisplay object takes the runs integer and divides my created innings integer,
+then multiplies the quotient by 9 to calculate ERA (Earned Run Average).
